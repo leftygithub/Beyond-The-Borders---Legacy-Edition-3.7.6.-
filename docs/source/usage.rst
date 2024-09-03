@@ -19,9 +19,6 @@ For now **DO NOT** build/upgrade both ***Med station & Water collector***. You c
 
 .. _requirements:
 
-:::{Requirements}
-:class: dropdown
-
 Requirements
 ------------
 
@@ -30,8 +27,6 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0
 
 A **legitimate** copy of Escape From Tarkov.
 Do NOT use WinRAR; it is known to cause issues. Use ``7Zip``
-
-:::
 
 
 .. _howtosetup:
