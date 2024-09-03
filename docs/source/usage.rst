@@ -43,7 +43,7 @@ How to Setup
 
 .. _target to image:
 
-.. figure:: \img\blue text.png
+.. figure:: /img/blue text.png
    :alt: Logo
    :align: center
    :width: 240px
