@@ -41,6 +41,12 @@ How to Setup
 6. Run the patcher.exe that is now inside the Beyond The Borders - Legacy Edition (3.7.6.) folder.
 7. Once it has finished, delete the ``patcher.exe``.
 
+.. _target to image:
+
+.. figure:: \img\blue text.png
+   :alt: Logo
+   :align: center
+   :width: 240px
 
 .. _installation:
 
@@ -52,7 +58,7 @@ Installation
 3. Click Aki.Server.exe  and WAIT while it starts up. You will know when it is finished when you see this image below and the blue text has loaded:
 4. After the server is finished loading and looks like the image above, open the Aki.Launcher.exe while keeping the server open.
 5. You may run into an issue where upon trying to launch, it will give you an error on not being able to find the location of the EscapeFromTarkov.exe. This just means you need to reset the pathing in the launcher. Example image of said error:  
--You can fix this by clicking on the settings at the top right of the launcher which will bring you to the image below. 
--Click on Select Folder
--Select the newly created Beyond The Borders - Legacy Edition (3.7.6.) folder.
-The folder SHOULD look like this if you correctly followed instructions:
+	-You can fix this by clicking on the settings at the top right of the launcher which will bring you to the image below. 
+	-Click on Select Folder
+	-Select the newly created Beyond The Borders - Legacy Edition (3.7.6.) folder.
+	-The folder SHOULD look like this if you correctly followed instructions:

@@ -5,7 +5,7 @@
 project = ' Beyond The Borders - Legacy Edition'
 author = 'TheDailyXPerience'
 
-
+release = '1.0'
 version = '3.7.6'
 
 # -- General configuration
@@ -33,3 +33,6 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# Enable numref
+numfig = True
