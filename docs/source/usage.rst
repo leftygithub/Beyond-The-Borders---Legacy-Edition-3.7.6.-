@@ -22,8 +22,7 @@ For now **DO NOT** build/upgrade both ***Med station & Water collector***. You c
 Requirements
 ------------
 
-``.Net 6 Desktop Runtime`` 
-https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.4-windows-x64-installer
+`Net 6 Desktop Runtime <https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.4-windows-x64-installer>`_
 
 A **legitimate** copy of Escape From Tarkov.
 Do NOT use WinRAR; it is known to cause issues. Use ``7Zip``
@@ -35,7 +34,7 @@ How to Setup
 ------------
 
 1. Create a Beyond The Borders - Legacy Edition (3.7.6.) folder for use during installation/set-up (Must be created on your C:Drive).
-2. Install SPT (Single Player Tarkov) correctly in the created Beyond The Borders - Legacy Edition (3.7.6.) folder:  https://hub.sp-tarkov.com/files/file/672-spt-installer/ Make sure to run the server & launcher at once before the next steps. Do not create a profile or copy live tarkov settings. Then close out of both server and launcher
+2. `Install SPT <https://hub.sp-tarkov.com/files/file/672-spt-installer/>`_ (Single Player Tarkov) correctly in the created Beyond The Borders - Legacy Edition (3.7.6.) folder. Make sure to run the server & launcher at once before the next steps. Do not create a profile or copy live tarkov settings. Then close out of both server and launcher
 3. Delete all the folders except for ``EscapeFromTarkov_Data`` , ``EscapeFromTarkov.exe``, ``EscapeFromTarkov_BE.exe``
 4. Extract patcher (BtB-Patcher-3.7.6.7z) with 7zip ONLY into a separate folder. `Patcher <https://drive.google.com/file/d/10mXnFqAa-ktwFD64DWNU34ScWxUZ68I6/view?usp=sharing>`_
 5. Copy the files inside the ``BtB-Patcher-3.7.6.7z`` newly extracted folder into the ``Beyond The Borders - Legacy Edition (3.7.6.) folder``.
@@ -51,8 +50,8 @@ Installation
 1. `Download the collection <https://drive.google.com/file/d/1OgEBQ3LOx6Hn4jAkqDK3KcDAzj8bHjfG/view?usp=sharing>`_ (The mods that form this collection)
 2. Extract the collection into the created Beyond The Borders - Legacy Edition (3.7.6.) folder. EXTRACT WITH 7-ZIP ONLY and replace any files when prompted.
 3. Click Aki.Server.exe  and WAIT while it starts up. You will know when it is finished when you see this image below and the blue text has loaded:
-5. After the server is finished loading and looks like the image above, open the Aki.Launcher.exe while keeping the server open.
-6. You may run into an issue where upon trying to launch, it will give you an error on not being able to find the location of the EscapeFromTarkov.exe. This just means you need to reset the pathing in the launcher. Example image of said error:  
+4. After the server is finished loading and looks like the image above, open the Aki.Launcher.exe while keeping the server open.
+5. You may run into an issue where upon trying to launch, it will give you an error on not being able to find the location of the EscapeFromTarkov.exe. This just means you need to reset the pathing in the launcher. Example image of said error:  
 -You can fix this by clicking on the settings at the top right of the launcher which will bring you to the image below. 
 -Click on Select Folder
 -Select the newly created Beyond The Borders - Legacy Edition (3.7.6.) folder.
