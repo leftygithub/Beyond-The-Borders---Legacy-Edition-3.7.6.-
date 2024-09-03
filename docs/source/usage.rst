@@ -47,6 +47,7 @@ How to Setup
    :alt: Logo
    :align: center
    :width: 240px
+   :loading: embed
 
 
    :numref:`target to image`
