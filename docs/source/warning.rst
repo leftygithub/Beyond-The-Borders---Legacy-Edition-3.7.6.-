@@ -1,3 +1,11 @@
+Usage
+=====
+
+.. _warning:
+
+Warning
+------------
+
 > - The collection while it has a few customizable options is **NOT** designed to be modified. The smallest change ***as simple as changing pocket size*** has caused game breaking issues and profile loss. Because of this I will provide **ZERO** support for anyone who modifies the collection even the slightest and feedback will not be taken into consideration.
 >  - Those who alter the collection in any way and are discovered to have done so ***while still asking for help and/or lying*** about modifying the collection will be **permanently banned** from the discord. I put a lot of time into this collection and don't enjoy being taken advantage of or my free time being wasted. This collection is free, and I would like my time and person to be respected.
 > - Keep in mind that a lot of these mods are altered **minimally to significantly** and do not function as they would normally due to this but function as I intend them to.
@@ -7,3 +15,11 @@
 >  - .Net 6 Desktop Runtime https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.4-windows-x64-installer
 >  - A legitimate copy of Escape From Tarkov.
 >  - Do **NOT** use WinRAR; it is known to cause issues. **Use 7Zip**
+
+
+Requirements
+------------
+
+.Net 6 Desktop Runtime https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.4-windows-x64-installer
+A legitimate copy of Escape From Tarkov.
+Do NOT use WinRAR; it is known to cause issues. Use 7Zip

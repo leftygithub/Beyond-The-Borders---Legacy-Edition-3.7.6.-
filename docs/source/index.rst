@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Beyond The Borders - Legacy Edition (3.7.6.)
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
