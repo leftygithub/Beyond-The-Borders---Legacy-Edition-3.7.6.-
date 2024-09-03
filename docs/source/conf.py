@@ -2,12 +2,11 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = ' Beyond The Borders - Legacy Edition'
+author = 'TheDailyXPerience'
 
-release = '0.1'
-version = '0.1.0'
+
+version = '3.7.6'
 
 # -- General configuration
 

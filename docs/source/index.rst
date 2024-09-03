@@ -1,17 +1,14 @@
 Beyond The Borders - Legacy Edition (3.7.6.)
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Beyond The Borders** (/lu'make/) is a Ultimate Mod Pack that overhauls Escape From Tarkov. Built on top of `SPT <https://sp-tarkov.com/>`_ with mods created by the SPT community.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is considered final product for Legacy Edition.
 
 Contents
 --------
@@ -19,4 +16,4 @@ Contents
 .. toctree::
 
    usage
-   api
+

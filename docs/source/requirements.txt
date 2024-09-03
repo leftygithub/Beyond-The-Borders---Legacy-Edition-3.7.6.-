@@ -1,3 +1,0 @@
-.Net 6 Desktop Runtime https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.4-windows-x64-installer
-A legitimate copy of Escape From Tarkov.
-Do NOT use WinRAR; it is known to cause issues. Use 7Zip

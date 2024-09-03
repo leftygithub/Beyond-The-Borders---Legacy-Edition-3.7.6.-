@@ -1,8 +1,0 @@
-Step 1) Create a Beyond The Borders - Legacy Edition (3.7.6.) folder for use during installation/set-up (Must be created on your C:Drive).
-Step 2)  Install SPT (Single Player Tarkov) correctly in the created Beyond The Borders - Legacy Edition (3.7.6.) folder:  https://hub.sp-tarkov.com/files/file/672-spt-installer/
-Make sure to run the server & launcher at once before the next steps. Do not create a profile or copy live tarkov settings. Then close out of both server and launcher
-Step 3) Delete all the folders except for "EscapeFromTarkov_Data" , "EscapeFromTarkov.exe", "EscapeFromTarkov_BE.exe"
-Step 4) Extract patcher (BtB-Patcher-3.7.6.7z) with 7zip ONLY into a separate folder. Patcher Link: https://drive.google.com/file/d/10mXnFqAa-ktwFD64DWNU34ScWxUZ68I6/view?usp=sharing
-Step 5) Copy the files inside the BtB-Patcher-3.7.6.7z newly extracted folder into the Beyond The Borders - Legacy Edition (3.7.6.) folder.
-Step 6) Run the patcher.exe that is now inside the Beyond The Borders - Legacy Edition (3.7.6.) folder.
-Step 7) Once it has finished, delete the patcher.exe.
