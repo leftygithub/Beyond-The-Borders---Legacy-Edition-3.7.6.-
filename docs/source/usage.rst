@@ -48,6 +48,9 @@ How to Setup
    :align: center
    :width: 240px
 
+
+   :numref:`target to image`
+
 .. _installation:
 
 Installation
