@@ -49,8 +49,8 @@ How to Setup
    :width: 240px
    :loading: embed
 
+.. image:: img/settings.png
 
-   :numref:`target to image`
 
 .. _installation:
 
