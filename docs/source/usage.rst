@@ -55,7 +55,7 @@ Installation
 1. `Download the collection <https://drive.google.com/file/d/1OgEBQ3LOx6Hn4jAkqDK3KcDAzj8bHjfG/view?usp=sharing>`_ (The mods that form this collection)
 2. Extract the collection into the created Beyond The Borders - Legacy Edition (3.7.6.) folder. EXTRACT WITH 7-ZIP ONLY and replace any files when prompted.
 3. Click Aki.Server.exe  and WAIT while it starts up. You will know when it is finished when you see this image below and the blue text has loaded
-		.. image:: img/blue text.png
+		.. image:: img/bluetext.png
 4. After the server is finished loading and looks like the image above, open the Aki.Launcher.exe while keeping the server open.
 5. You may run into an issue where upon trying to launch, it will give you an error on not being able to find the location of the EscapeFromTarkov.exe. This just means you need to reset the pathing in the launcher. Example image of said error
 	.. image:: img/errorfolder.png
